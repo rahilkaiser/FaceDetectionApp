@@ -1,4 +1,3 @@
-from random import randrange
 import cv2
 from cv2 import waitKey
 from cv2 import CascadeClassifier
